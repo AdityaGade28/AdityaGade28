@@ -5,7 +5,7 @@ Full Stack Developer • AI & Blockchain Enthusiast
 </h3>
 
 <p align="center">
-I'm **Aditya Gade**, a **Full Stack Developer** and **AI/ML Enthusiast** from Nashik, India. I specialize in building scalable web applications and integrating advanced AI models to solve real-world problems.
+I'm <b>Aditya Gade</b>, a <b>Full Stack Developer</b> and <b>AI/ML Enthusiast</b> from Nashik, India. I specialize in building scalable web applications and integrating advanced AI models to solve real-world problems.
 </p>
 
 <p align="center">
